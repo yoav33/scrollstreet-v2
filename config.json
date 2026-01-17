@@ -7,16 +7,15 @@
     "1.3.1",
     "1.3.2",
     "1.3.3",
-    "1.3.4",
-    "1.3.5"
+    "1.3.4"
   ],
   "graylisted_versions": [
-    "1.3.6"
+    "1.3.5"
   ],
   "upgrade_ui": {
     "title": "NEW VERSION AVAILABLE",
     "message": "ScrollStreet just got better. Update now for the latest features.",
-    "image_url": "https://scrollstreet.app/screen-1.png",
+    "image_url": "https://scrollstreet.app/logo.png",
     "store_url": "https://apps.apple.com/us/app/scrollstreet-trading-simulator/id6755594467"
   }
 }
