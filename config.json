@@ -13,6 +13,13 @@
     "1.3.5"
   ],
   "ghost_daily_limit": 5,
+  "ab_tests": {
+    "ghost_limit_experiment": {
+      "is_active": true,
+      "probability": 0.5,
+      "variant_value": 20
+    }
+  },
   "upgrade_ui": {
     "title": "NEW VERSION AVAILABLE",
     "message": "ScrollStreet just got better. Update now for the latest features.",
