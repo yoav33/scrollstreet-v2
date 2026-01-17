@@ -14,8 +14,8 @@
   "ghost_daily_limit": 5,
   "ab_tests": {
     "ghost_limit_experiment": {
-      "is_active": false,
-      "probability": 0.3,
+      "is_active": true,
+      "probability": 0.5,
       "variant_value": 20
     }
   },
