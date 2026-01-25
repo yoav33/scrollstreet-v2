@@ -15,7 +15,7 @@
     "Plus500",
     "Etoro" 
   ],
-  "ghost_daily_limit": 5,
+  "ghost_daily_limit": 10,
   "ab_tests": {
     "ghost_limit_experiment": {
       "is_active": false,
