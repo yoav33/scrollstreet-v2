@@ -16,7 +16,7 @@
     "Etoro" 
   ],
   "ghost_daily_limit": 10,
-  "ghost_mode_enabled": false,
+  "tester": false,
   "ab_tests": {
     "ghost_limit_experiment": {
       "is_active": false,
